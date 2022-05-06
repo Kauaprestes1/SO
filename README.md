@@ -1,4 +1,4 @@
-<H1 align= "center"> # SO </H1>
+<H1 align= "center">  SO </H1>
   <p align= "center"> Sistemas operacionais </p>
 
 
